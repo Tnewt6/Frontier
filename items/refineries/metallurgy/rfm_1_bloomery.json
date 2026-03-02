@@ -4,7 +4,7 @@
   "research_node": "basic_metallurgy",
   "tech_level": 1,
   "branch": "metallurgy",
-  "mass_t": 14,
+  "mass_t": 8,
   "power_requirements": {
     "electric_mw": 0.55
   },
